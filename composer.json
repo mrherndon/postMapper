@@ -1,0 +1,13 @@
+{
+    "name": "mrherndon/post-mapper",
+    "description": "simple assosciative array to object mapper",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raymond Herndon",
+            "email": "rherndon@starsacramento.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
