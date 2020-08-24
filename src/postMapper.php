@@ -1,8 +1,8 @@
 <?php
 
-namespace mrherndon;
+namespace mrherndon\postMapper;
 
-class postMapper {
+class map {
     function __invoke($postArray, $object){
         foreach ($object as $key => $value){
             if(isset($postArray[$key])){
